@@ -104,9 +104,9 @@ You can test different task configurations by commenting/uncommenting the approp
 
 | Name        | GitHub Profile                              |
 | ----------- | ------------------------------------------- |
-| Alice Smith | [alicesmith](https://github.com/alicesmith) |
-| Bob Johnson | [bobjohnson](https://github.com/bobjohnson) |
-| Charlie Lee | [charlielee](https://github.com/charlielee) |
-| Dana White  | [danawhite](https://github.com/danawhite)   |
-| Eli Brown   | [elibrown](https://github.com/elibrown)     |
-| Fiona Green | [fionagreen](https://github.com/fionagreen) |
+| Ali Ashraf Ibrahim Said | https://github.com/Alinist |
+| Bob Johnson | https://github.com/OmarAmgad220 |
+| Charlie Lee | https://github.com/hosahmed |
+| Dana White  | https://github.com/ElAlbany |
+| Eli Brown   | https://github.com/aliamgad |
+| Fiona Green | https://github.com/AhmadIbrahim2004 |
