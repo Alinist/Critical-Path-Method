@@ -1,0 +1,3 @@
+﻿  Project.cpp
+D:\Ali Stuff\College\FCIS\third year\first term\Courses\System Analysis\Saad Assignment\Code\Project.cpp(143,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Ali Stuff\College\FCIS\third year\first term\Courses\System Analysis\Saad Assignment\Code\Project.cpp(192,6): error C2059: syntax error: ';'
