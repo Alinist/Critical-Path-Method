@@ -110,3 +110,4 @@ You can test different task configurations by commenting/uncommenting the approp
 | Zaid Hany Mohamed Salah El Deen | https://github.com/ElAlbany |
 | Ali Amgad Ahmad Saaid   | https://github.com/aliamgad |
 | Ahmad Ibrahim Mohamed Fathy | https://github.com/AhmadIbrahim2004 |
+| Oliver Nasr Roshdy Atallah | https://github.com/OliverNasr |
